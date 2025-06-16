@@ -94,3 +94,8 @@ footer {
   font-size: 0.95rem;
   color: #333;
 }
+
+.feedback-card audio {
+  margin-top: 10px;
+  width: 100%;
+}
